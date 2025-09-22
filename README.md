@@ -1,3 +1,6 @@
+<img width="940" height="395" alt="image" src="https://github.com/user-attachments/assets/33641fea-de42-4f3f-9e9f-8e75af868177" />
+
+
 ### Terraform code 
 
 Complete terraform files to create EKS in AWS VPC is available in the `eks-install` folder of this repo. This includes remote backend and statelocking implementation as well.
